@@ -1,7 +1,7 @@
-### NLW Copa
-## Trilha Explorer
+## NLW Copa
+### Trilha Explorer
 
-# Aula 01:
+## Aula 01:
 
 <em>"Nossos primeiros passos! Nesta aula vamos conhecer as bases necessárias para dar os primeiros passos na prática em programação e dar início à estruturação de pastas e HTML do nosso projeto."</em>
 
