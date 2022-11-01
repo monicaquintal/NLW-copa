@@ -2,6 +2,9 @@
 ## Trilha Explorer
 
 # Aula 01:
+
+<em>"Nossos primeiros passos! Nesta aula vamos conhecer as bases necessárias para dar os primeiros passos na prática em programação e dar início à estruturação de pastas e HTML do nosso projeto."</em>
+
 A) Boas vindas;
 B) O Projeto:
 
