@@ -15,5 +15,29 @@ C) Preparando o ambiente:
 
 - utilizado VS Code;
 - instalação de extensões (Live Server, Material Icon Theme, Omni Theme, Prettier);
+
+D) Introdução ao HTML:
+
 - criado arquivo index.html, e iniciada sua estruturação básica.
-  - inserida imagem de logo a partir do Figma (Copy/Paste as... Copy as SVG -> criar um arquivo .svg e colar o código).
+- inserida imagem de logo a partir do Figma (Copy/Paste as... Copy as SVG -> criar um arquivo .svg e colar o código).
+
+  ## Aula 02:
+
+A) Introdução ao CSS:
+
+- "cascata" = quando há 2 (ou mais) declarações, a última será mais relevante.
+- especificidade = cada seletor tem um peso:
+
+  - id caracteriza um elemento único;
+  - peso: id > classe > elemento.
+
+- todos os elementos html serão considerados uma caixa (conteúdo, largura, altura, preenchimento, margem, bordas, espaçamento).
+
+B) Retomando o projeto:
+
+- Configurando o VS Code:
+
+  - criação da pasta .vscode;
+  - criação do arquivo settings.json.
+
+- Criando e configurando o arquivo style.css.

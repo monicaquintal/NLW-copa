@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+}
+
+body {
+  background-color: #121214;
+  background-image: url(./assets/bg.svg);
+  background-position-x: center;
+  background-position-y: 55.6%;
+}
+
+#app {
+  width: fit-content; /* encaixar o conteúdo no tamanho da caixa */
+  margin: 52px auto;
+}
+
+header {
+  margin-bottom: 63px;
+}
+
+.card {
+  border: 1px solid red;
+  padding: 32px 23px;
+  text-align: center;
+}
+
+.card h2 {
+  display: flex;
+  padding: 8px 16px;
+  border: 1px solid #746615;
+  border-radius: 6px;
+}
