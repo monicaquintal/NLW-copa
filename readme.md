@@ -41,3 +41,5 @@ B) Retomando o projeto:
   - criação do arquivo settings.json.
 
 - Criando e configurando o arquivo style.css.
+
+  - aplicação de fonte obtida no <a href="https://fonts.google.com/">Google Fonts</a>.
