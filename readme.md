@@ -5,14 +5,14 @@ Trilha Explorer.
 </p>
 
 <p align="center">
-  <a href="#-construindo-as-bases">Construindo as bases e HTML</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-explorando-o-CSS">Explorando o CSS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-introducao-ao-javascript">Introdução ao JavaScrip</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-personalizando">Personalizando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-aula05">Aula 05</a>
+  <a href="#aula1">Construindo as bases e HTML</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#aula2">Explorando o CSS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#aula3">Introdução ao JavaScrip</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#aula4">Personalizando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#aula05">Aula 05</a>
 </p>
 
-### 
+<div id="aula01">
 
 ## Aula 01: Construindo as bases
 
@@ -34,6 +34,9 @@ Trilha Explorer.
 
 - criado arquivo index.html, e iniciada sua estruturação básica.
 - inserida imagem de logo a partir do Figma (Copy/Paste as... Copy as SVG -> criar um arquivo .svg e colar o código).
+</div>
+
+<div id="aula02">
 
 ## Aula 02: Explorando o CSS
 
@@ -59,6 +62,9 @@ Trilha Explorer.
 - Criando e configurando o arquivo style.css.
 
   - aplicação de fonte obtida no <a href="https://fonts.google.com/">Google Fonts</a>.
+</div>
+
+<div id="aula03">
 
 ## Aula 03: Introdução ao JavaScript
 
@@ -122,6 +128,9 @@ Trilha Explorer.
 
 - criação do arquivo main.js.
 - quando utilizamos ``, é possível fazer quebra de linha na string declarada no JS.
+</div>
+
+<div id="aula04">
 
 ## Aula 04: Personalizando o projeto
 
@@ -145,3 +154,10 @@ Trilha Explorer.
 ### D) Custom colors:
 
 - CSS variables (3 opções: null/vazio, green ou blue).
+</div>
+
+<div id="aula05">
+
+## Aula 05: 
+
+</div>
