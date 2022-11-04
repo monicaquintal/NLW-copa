@@ -109,3 +109,26 @@
 
 - criação do arquivo main.js.
 - quando utilizamos ``, é possível fazer quebra de linha na string declarada no JS.
+
+## Aula 04: Personalizando o projeto
+
+<em>Vamos deixar nossa marca no projeto! Existem diversas maneiras de customizar e personalizar um projeto, nesta aula vamos usar animações, CSS variables e refactor.</em>
+
+### A) Refactor:
+
+- Mudar o código, sem mudar o comportamento final;
+- Mais clareza e melhorias para o código.
+
+### B) Animações e transições:
+
+- Transition - no CSS;
+- @keyframes (animações, act rule) - no CSS;
+- Dynamic with JS - no arquivo main.js.
+
+### C) Desktop Mode:
+
+- @media.
+
+### D) Custom colors:
+
+- CSS variables (3 opções: null/vazio, green ou blue).

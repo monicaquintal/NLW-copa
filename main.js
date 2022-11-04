@@ -8,9 +8,11 @@ function createGame(player1, hour, player2) {
   `
 }
 
+let delay = -0.4;
 function createCard(date, day, games) {
+  delay = delay + 0.4;
   return `
-      <div class="card"> <!-- início cartão 1 -->
+      <div class="card" style="animation-delay: ${delay}s"> <!-- início cartão 1 -->
       <h2> ${date} <span>${day}</span></h2>
         <ul>
           ${games}
@@ -19,37 +21,31 @@ function createCard(date, day, games) {
   `
 }
 
-document.querySelector("#app").innerHTML = `
-  <header> <!-- início cabeçalho -->
-    <img src="./assets/logo.svg" alt="logo da NLW">
-  </header> <!-- fim cabeçalho -->
+document.querySelector("#cards").innerHTML =
 
-  <main id="cards"> <!-- início main -->
-    ${createCard(
+    createCard(
       "24/11",
       "quinta",
-      createGame("suica", "7:00", "camaroes") +
+        createGame("suica", "7:00", "camaroes") +
         createGame("uruguai", "10:00", "coreiadosul") +
         createGame("portugal", "13:00", "gana") +
         createGame("brasil", "16:00", "servia")
-    )}
+    ) +
 
-    ${createCard(
+    createCard(
       "28/11",
       "segunda",
       createGame("camaroes", "7:00", "servia") +
-        createGame("coreiadosul", "10:00", "gana") +
-        createGame("brasil", "13:00", "suica") +
-        createGame("portugal", "16:00", "uruguai")
-    )}
+      createGame("coreiadosul", "10:00", "gana") +
+      createGame("brasil", "13:00", "suica") +
+      createGame("portugal", "16:00", "uruguai")
+    ) +
 
-    ${createCard(
+    createCard(
       "02/12",
       "sexta",
       createGame("coreiadosul", "12:00", "portugal") +
-        createGame("gana", "12:00", "uruguai") +
-        createGame("servia", "16:00", "suica") +
-        createGame("camaroes", "16:00", "brasil")
-    )}
-  </main> <!-- fim main -->
-`
+      createGame("gana", "12:00", "uruguai") +
+      createGame("servia", "16:00", "suica") +
+      createGame("camaroes", "16:00", "brasil")
+    )
