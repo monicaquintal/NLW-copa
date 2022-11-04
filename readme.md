@@ -5,10 +5,11 @@ Trilha Explorer.
 </p>
 
 <p align="center">
-  <a href="#-construindo as bases">Construindo as bases e HTML</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-explorando o CSS">Explorando o CSS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-introdução ao javascript">Introdução ao JavaScrip</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-construindo-as-bases">Construindo as bases e HTML</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-explorando-o-CSS">Explorando o CSS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-introducao-ao-javascript">Introdução ao JavaScrip</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-personalizando">Personalizando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-aula05">Aula 05</a>
 </p>
 
 ### 
