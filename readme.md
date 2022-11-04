@@ -1,5 +1,17 @@
-## NLW Copa
-### Trilha Explorer
+<h1 align="center">NLW Copa</h1>
+
+<p align="center">
+Trilha Explorer.
+</p>
+
+<p align="center">
+  <a href="#-construindo as bases">Construindo as bases e HTML</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-explorando o CSS">Explorando o CSS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-introdução ao javascript">Introdução ao JavaScrip</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-personalizando">Personalizando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
+### 
 
 ## Aula 01: Construindo as bases
 
