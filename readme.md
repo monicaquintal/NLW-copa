@@ -5,12 +5,30 @@ Trilha Explorer.
 </p>
 
 <p align="center">
-  <a href="#aula01">Construindo as bases e HTML</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#aula02">Explorando o CSS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <img alt="calendario da copa" src="./capa/preview.jpg" width="100%">
+</p>
+
+<p align="center">
+  <a href="#aula01">Construindo bases + HTML</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#aula02">Explorando CSS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#aula03">Introdução ao JavaScrip</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#aula04">Personalizando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#aula05">Aula 05</a>
+  <a href="#aula05">Últimos ajustes</a>
 </p>
+
+## Tecnologias:
+
+O projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- JavaScript
+- Git e GitHub
+
+## Projeto:
+
+O Calendário da Copa é um projeto que mostra os jogos da Copa de 2022.
+
+<hr>
 
 <div id="aula01">
 
@@ -18,7 +36,7 @@ Trilha Explorer.
 
 <em>"Nossos primeiros passos! Nesta aula vamos conhecer as bases necessárias para dar os primeiros passos na prática em programação e dar início à estruturação de pastas e HTML do nosso projeto."</em>
 
-### A) Boas vindas;
+### A) Boas vindas!
 
 ### B) O Projeto:
 
@@ -158,6 +176,32 @@ Trilha Explorer.
 
 <div id="aula05">
 
-## Aula 05: 
+## Aula 05: Colocando o projeto no mundo + próximos passos.
+
+<em>Últimos ajustes! Chegou a hora de finalizar nosso projeto e colocá-lo no mundo. Vamos aprender como criar um Readme e publicar nosso código no GitHub.</em>
+
+### A) Git:
+
+- controle de versão;
+- é uma linha do tempo (histórico do projeto).
+- conceitos básicos:
+
+  - Repository: local onde ficará o histórico do projeto;
+  - Branch: linha do tempo;
+  - Commit: pontos na história;
+  - Stage: preparação do que será enviado para o ponto na história.
+
+- comandos principais:
+
+  - git init = inicia o git (repositório) no projeto;
+  - git add . = adiciona todos os arquivos modificados ao stage;
+  - git commit -m "message here" = cria e descreve um ponto na história;
+  - git push = envia as alterações para o repositório remoto.
+
+ ### B) GitHub:
+
+ - plataforma online para colocar seus códigos (através do git);
+ - permite trabalhar em diversos projetos (colaborar em projetos, trabalhar com times e etc);
+ - perfil para mostrar seu trabalho (portfólio).
 
 </div>
